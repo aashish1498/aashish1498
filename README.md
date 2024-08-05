@@ -1,4 +1,4 @@
-![linkedin-banner](https://github.com/user-attachments/assets/464d5861-4478-407e-bd94-392e9d8855ea)
+[<img src="https://github.com/user-attachments/assets/464d5861-4478-407e-bd94-392e9d8855ea">](https://aashishmehta.com/)
 
 # Aashish Mehta
 Hello and welcome to my repository! Check out my website at [aashishmehta.com](https://aashishmehta.com) to see more of my projects.
