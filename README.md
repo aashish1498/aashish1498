@@ -1,7 +1,5 @@
 # Aashish Mehta
-Hello, welcome to my repository!
-
-Check out my website at [aashishmehta.com](https://aashishmehta.com) for my portfolio!
+Hello and welcome to my repository! Check out my website at [aashishmehta.com](https://aashishmehta.com) to see more of my projects.
 
 ## Featured Projects
 - 📱 Find the code I wrote for the [Citizens Advice Redbridge Android application](https://github.com/aashish1498/CitizensAdvice) (using C# and Xamarin Forms)
