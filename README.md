@@ -2,22 +2,11 @@
 Hello and welcome to my repository! Check out my website at [aashishmehta.com](https://aashishmehta.com) to see more of my projects.
 
 ## Featured Projects
-- 📱 Find the code I wrote for the [Citizens Advice Redbridge Android application](https://github.com/aashish1498/CitizensAdvice) (using C# and Xamarin Forms)
-- 🏳️‍⚧️ See my work on [Natural Language Processing and Sentiment Analysis](https://github.com/aashish1498/sentiment-analysis) to identify bias in Transgender News Coverage (using Python)
-- 📄 Learn about how I used [Fact Sheets in Retrieval Augmented Generation](https://github.com/aashish1498/fact-sheet-rag) (RAG) pipelines to bolster Large Language Models (using Python)
-- 📷 Make use of my [Photo Organiser](https://github.com/aashish1498/snap-sort) to group your pictures by month and date (written in GoLang)
-- 🤖 Peek at some of my Arduino projects where I made a [Musical Lock Box](https://github.com/aashish1498/Music-Box/blob/master/Piano_Lock.ino), or an [RGB Rotary Encoder](https://github.com/aashish1498/arduino-rgb-strip-encoder/blob/main/arduino-rgb-strip-encoder.ino)
-<!--
-**aashish1498/aashish1498** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Repository                                                                | Description                                                                                                               | Language / Technologies |
+|---------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|-------------------------|
+| [Citizens Advice](https://github.com/aashish1498/CitizensAdvice)          | Find the code I wrote for the Citizens Advice Redbridge app 📱                                                           | C# / Xamarin Forms      |
+| [Sentiment Analysis](https://github.com/aashish1498/sentiment-analysis)   | See my work on Natural Language Processing and Sentiment Analysis to identify bias in Transgender News Coverage 🏳️‍⚧️       | Python / Flair / NLTK   |
+| [Fact Sheets](https://github.com/aashish1498/fact-sheet-rag)              | Learn how I use Fact Sheets in Retrieval Augmented Generation (RAG) pipelines to bolster Large Language Models 📄        | Python / LangChain      |
+| [Snap Sort](https://github.com/aashish1498/snap-sort)                     | Make use of my Photo Organiser to group your pictures by year, month and date  📷                                        | GoLang                  |
+| [Music Box](https://github.com/aashish1498/Music-Box)                     | Peek at some of my Arduino projects where I made a Musical Block Box, an RGB Rotary Encoder and more!  🤖                | C++ / Arduino           |
