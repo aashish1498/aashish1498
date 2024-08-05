@@ -1,5 +1,14 @@
-## Hi there 👋
+# Aashish Mehta
+Hello, welcome to my repository!
 
+Check out my website at [aashishmehta.com](https://aashishmehta.com) for my portfolio!
+
+## Featured Projects
+- 📱 Find the code I wrote for the [Citizens Advice Redbridge Android application](https://github.com/aashish1498/CitizensAdvice) (using C# and Xamarin Forms)
+- 🏳️‍⚧️ See my work on [Natural Language Processing and Sentiment Analysis](https://github.com/aashish1498/sentiment-analysis) to identify bias in Transgender News Coverage (using Python)
+- 📄 Learn about how I used [Fact Sheets in Retrieval Augmented Generation](https://github.com/aashish1498/fact-sheet-rag) (RAG) pipelines to bolster Large Language Models (using Python)
+- 📷 Make use of my [Photo Organiser](https://github.com/aashish1498/snap-sort) to group your pictures by month and date (written in GoLang)
+- 🤖 Peek at some of my Arduino projects where I made a [Musical Lock Box](https://github.com/aashish1498/Music-Box/blob/master/Piano_Lock.ino), or an [RGB Rotary Encoder](https://github.com/aashish1498/arduino-rgb-strip-encoder/blob/main/arduino-rgb-strip-encoder.ino)
 <!--
 **aashish1498/aashish1498** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
